@@ -1,0 +1,10 @@
+1 - (E) A linguagem de programação C++ é um exemplo de linguagem orientada a objetos, que não permite a utilização do paradigma estruturado na solução de um problema. 
+2-(B) Polimorfismo. 
+3- (D) Encapsulamento. 
+4- (A) Herança. 
+5- (C) I, apenas.
+6 - (A) Trata-se dos conceitos de herança, métodos e atributos.
+7- (C) II e IV, apenas.
+8- (C) II e IV, apenas.
+9- (C) classe, atributos, operações, Objetos, instâncias.
+10- (B) I, III e VI.
